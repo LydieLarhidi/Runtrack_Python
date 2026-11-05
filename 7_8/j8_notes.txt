@@ -1,0 +1,14 @@
+qui ? bibliothecaire
+quoi ? remplissage etagere
+contrainte ? etagere a 8 livres
+combien ?
+
+# -----------------
+
+Debut
+    Pour i allant de 1 a 10 
+        afficher i
+    FinPour
+    afficher "fin de la boucle"
+Fin
+

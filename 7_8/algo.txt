@@ -1,0 +1,8 @@
+1. le besoin : deviner le mot dans une liste, 
+les entrees sont : la liste, le mot devine par le joueur, le nombre d'essais, le retour, la reponse gagner ou perdu
+
+2. les variables : on manipulera la liste, la proposition du joueur, le nombre de tours restants
+
+3. le deroulement logique : 
+etape 1 : on demande au joueur d'entrer un fruit contenu dans la liste
+condition : si le fruit est dans la liste, on le compare 
